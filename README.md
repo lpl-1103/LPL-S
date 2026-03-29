@@ -3,7 +3,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/lpl-1103?label=Followers&style=social)
 
 ## 📦 仓库介绍：LPL-S
-本仓库记录我在**LPL相关领域**的学习历程、技术积累与实践成果，持续更新中...
+本仓库记录我在**相关领域**的学习历程、技术积累与实践成果，持续更新中...
 
 ## 🧑‍🎓 About Me
 - 📍 来自：**中国台湾**
